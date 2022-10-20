@@ -1,2 +1,2 @@
-# ng-reservation
+# ng-res 
 ![My Image](screenshot.png)
